@@ -1,0 +1,1 @@
+INSERT into gender_stat (id,male_count,female_count)VALUES (1,0,0);
